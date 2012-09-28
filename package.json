@@ -1,0 +1,34 @@
+{
+  "name": "node-cache2",
+  "version": "0.0.3",
+  "description": "Node app to fetch data from another server and save it in memory",
+  "main": "./lib/main",
+  "dependencies": {
+    "microtime": ">= 0.3.1",
+    "underscore": ">= 1.3.3"    
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "author": {
+    "name": "Sudhanshu Raheja",
+    "email": "sudhanshu@vxtindia.com",
+    "url": "http://vxtindia.com"
+  },
+  "homepage": "http://github.com/vxtindia/node-cache",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vxtindia/node-cache.git"
+  },
+  "bugs": {
+    "url": "http://github.com/vxtindia/node-cache/issues"
+  },  
+  "scripts": {},
+  "optionalDependencies": {},
+  "releaseNotes": {
+    "0.0.3": "Added a way to update settings",
+    "0.0.2": "Added dependencies",
+    "0.0.1": "Added a way to process get and post"
+  }
+}
