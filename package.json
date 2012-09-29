@@ -1,6 +1,6 @@
 {
   "name": "node-cache2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node app to fetch data from another server and save it in memory",
   "main": "./lib/main",
   "dependencies": {
@@ -27,6 +27,7 @@
   "scripts": {},
   "optionalDependencies": {},
   "releaseNotes": {
+    "0.0.4": "Added a way to update parameters",
     "0.0.3": "Added a way to update settings",
     "0.0.2": "Added dependencies",
     "0.0.1": "Added a way to process get and post"
